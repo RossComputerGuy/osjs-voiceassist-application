@@ -1,0 +1,16 @@
+{
+  "type": "application",
+  "name": "VoiceAssist",
+  "category": "utilities",
+  "singleton": true,
+  "title": {
+    "en_EN": "Voice Assistant"
+  },
+  "description": {
+    "en_EN": "Voice Assistant"
+  },
+  "files": [
+    "main.js",
+    "main.css"
+  ]
+}
